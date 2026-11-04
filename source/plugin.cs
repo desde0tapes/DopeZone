@@ -103,7 +103,7 @@ namespace DopeZoneMod
             "Dope jump!",
             "Fly, like a butterfly...",
             "We fly high! 0_0",
-            "Peak jump trick!",
+            "That's Peak!",
             "Aero dynamic!",
             "Power jump! ( /o_o)/",
             "We have Lift-off!",
