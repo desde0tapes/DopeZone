@@ -14,17 +14,17 @@ Grinding or sliding doesnt mean your Dope combo will be active! You have to be c
 
 Perform the required tricks in the zone to get your HyperBoost Units!
 
-Value of tricks:
+### Value of tricks:
 
-Regular Tricks = 1 trick
-Boost Tricks = 2 tricks
-High jumps or Dope Jumps = 4 tricks
+—✰ Regular Tricks = 1 trick
+—✰ Boost Tricks = 2 tricks
+—✰ High jumps or Dope Jumps = 4 tricks
 
-Streak:
+### Streak:
 
-Obtaining 5 rewards of HB units in a row will give you a total x2 Multiplier !
+Obtaining 5 rewards of HB units in a row will give you a +50 HB Units Reward !
 
-Multipliers:
+### Multipliers:
 
 Doing 1/3 of your required tricks with Dope Drops will give you a x2 Dope Master multiplier on each HB reward!
 
