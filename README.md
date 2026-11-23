@@ -71,7 +71,7 @@ Toggle this option to visualize your "ozone" gap area more clearly.
 ### Time Grace Period (time between tricks limit)
 
 ### Zone Settings
-Zone Expansions its an allowed movement after getting a HB reward. It can be accompanied by a Zone Expansions which doubles the Ozone radius.
+Zone Movements its an allowed movement after getting a HB reward. It can be accompanied by a Zone Expansions which doubles the Ozone radius.
 
 — Number of zone expansions<br>
 — Number of zone moves<br>
