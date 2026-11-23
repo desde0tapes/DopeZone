@@ -73,9 +73,9 @@ Toggle this option to visualize your "ozone" gap area more clearly.
 ### Zone Settings
 Zone Expansions its an allowed movement after getting a HB reward. It can be accompanied by a Zone Expansions which doubles the Ozone radius.
 
-— Number of zone expansions
-— Number of zone moves
-— Time allowed of zone movement
+— Number of zone expansions<br>
+— Number of zone moves<br>
+— Time allowed of zone movement<br>
 
 By default after getting your first reward you can move 1 time for 10 seconds and your default 70 meter radius gets doubled to 140. All these values can be edited !
 
