@@ -12,7 +12,7 @@ If you leave the zone your Dope combo breaks!
 
 Grinding or sliding doesnt mean your Dope combo will be active! You have to be constantly tricking!
 
-Perform the required tricks in the zone to get your HyperBoost Units!
+Perform the required tricks in the active zone to get your HyperBoost Units!
 
 Value of tricks:
 
